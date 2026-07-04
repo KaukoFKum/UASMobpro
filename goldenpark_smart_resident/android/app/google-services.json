@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "684172807352",
+    "project_id": "goldenpark-smart-resident",
+    "storage_bucket": "goldenpark-smart-resident.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:684172807352:android:42543c2549b8cb41be384d",
+        "android_client_info": {
+          "package_name": "com.example.goldenpark_smart_resident"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnR_LQdY5NcOmdsV9t5OJuOd3IXoL-TVY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
